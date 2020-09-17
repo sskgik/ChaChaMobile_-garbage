@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="walletservice/walletservice.cs">
+    <Files>
+      <File FileName="walletservice/walletservice.csproj" Line="26" Column="30" />
+      <File FileName="walletservice/Utility/Utils.cs" Line="11" Column="6" />
+      <File FileName="walletservice/walletservice.cs" Line="32" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="walletservice" expanded="True">
+            <Node name="walletservice" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Utility" expanded="True">
+                <Node name="obj" expanded="True">
+                  <Node name="Debug" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="walletservice.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

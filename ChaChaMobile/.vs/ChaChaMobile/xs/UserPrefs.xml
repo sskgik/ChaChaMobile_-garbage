@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E2ACAD68-A290-4F20-9760-ED860F906550}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChaChaMobile.csproj">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="4" Column="7" />
+      <File FileName="ChaChaMobile.csproj" Line="167" Column="16" />
+      <File FileName="QRscanner/ScanPagexaml.cs" Line="9" Column="20" />
+      <File FileName="Info.plist" />
+      <File FileName="App.cs" Line="19" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChaChaMobile" expanded="True">
+            <Node name="ChaChaMobile" expanded="True">
+              <Node name="QRscanner" expanded="True" />
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChaChaMobile PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E82FF853-FBD4-4888-BD07-98F2F348BC6C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaChaMobile", "ChaChaMobile.csproj", "{E2ACAD68-A290-4F20-9760-ED860F906550}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77F8AEC3-A890-420D-9A20-B22C878E018C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2ACAD68-A290-4F20-9760-ED860F906550}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E2ACAD68-A290-4F20-9760-ED860F906550}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E2ACAD68-A290-4F20-9760-ED860F906550}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E2ACAD68-A290-4F20-9760-ED860F906550}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E2ACAD68-A290-4F20-9760-ED860F906550}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E2ACAD68-A290-4F20-9760-ED860F906550}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E2ACAD68-A290-4F20-9760-ED860F906550}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E2ACAD68-A290-4F20-9760-ED860F906550}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal

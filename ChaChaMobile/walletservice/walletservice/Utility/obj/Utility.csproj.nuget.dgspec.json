@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sasakigaiki/Projects/ChaChaMobile/ChaChaMobile/Utility/Utility.csproj": {}
+  },
+  "projects": {
+    "/Users/sasakigaiki/Projects/ChaChaMobile/ChaChaMobile/Utility/Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sasakigaiki/Projects/ChaChaMobile/ChaChaMobile/Utility/Utility.csproj",
+        "projectName": "Utility",
+        "projectPath": "/Users/sasakigaiki/Projects/ChaChaMobile/ChaChaMobile/Utility/Utility.csproj",
+        "packagesPath": "/Users/sasakigaiki/.nuget/packages/",
+        "outputPath": "/Users/sasakigaiki/Projects/ChaChaMobile/ChaChaMobile/Utility/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sasakigaiki/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/Users/sasakigaiki/c_sharp/miyabi_SDK/sdk": {},
+          "/usr/local/share/dotnet/sdk/3.1.402": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Miyabi.Api": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Miyabi.Asset.Client": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Miyabi.ClientSdk": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Miyabi.Common": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Miyabi.Cryptography.BouncyCastle": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Miyabi.Hash.BouncyCastle": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Miyabi.ModelSdk": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
